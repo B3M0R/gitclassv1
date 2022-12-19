@@ -1,0 +1,1 @@
+console.lon('this is a javascript file');
